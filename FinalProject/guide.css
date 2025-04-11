@@ -1,0 +1,23 @@
+body{color: #222; background-color: #e1ad6d; font-family: "Apple Chancery", cursive;}
+
+h1{color: #333; background-color: #c99157; font-family: Luminari, Papyrus, fantasy; text-align: center; font-size: 1.5em;}
+h2{color: #333; font-family: "Apple Chancery", cursive; text-align: center;}
+h3{color: #333; font-family: "Apple Chancery", cursive; text-align: center;}
+
+nav{font-size: 1em; text-align: center; background-color: #ffdd8a;}
+nav ul{list-style-type: none; flex-direction: column; margin: 0; padding-left: 0em;}
+
+section{border-style: groove; border-color: #222;}
+ul{background-color: #c99157;}
+
+form{display: flex; flex-direction: column; padding-left: 1em; width: 80%;}
+input{margin-bottom: .5em;}
+
+#logoDisplay{background-image: url(logo.png); height: 300px; width: 300px; background-size: 100% 100%; background-repeat: no-repeat; display: block; margin: auto;}
+#phbDisplay{background-image: url(phbCover.png); height: 400px; width: 300px; background-size: 100% 100%; background-repeat: no-repeat; display: block; margin: auto;}
+#xgeDisplay{background-image: url(xgeCover.jpg); height: 400px; width: 300px; background-size: 100% 100%; background-repeat: no-repeat; display: block; margin: auto;}
+#tceDisplay{background-image: url(tceCover.png); height: 400px; width: 300px; background-size: 100% 100%; background-repeat: no-repeat; display: block; margin: auto;}
+#miscDisplay{background-image: url(miscBackground.jpg); height: 300px; width: 600px; background-size: 100% 100%; background-repeat: no-repeat; display: block; margin: auto;}
+
+td{padding: 5px; border: 1px solid #3399CC; text-align: center;}
+th{padding: 5px; border: 1px solid #3399CC;}
